@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#mynav{
+    display: flex;
+    gap: 800px;
+    justify-content: space-around;
+}
